@@ -4,7 +4,7 @@
 ## Junior Front-end Developer ☺️
 
 ### 💁‍ About Me
- - Chungbuk National University student majoring in English Language & International Business
+ - Graduated from Chungbuk National University (English Language & International Business)
 
 ### 💡 Interests
  - Web skills(ex. JS, React)
