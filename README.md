@@ -2,10 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaheejo&count_bg=%23DDDFDB&title_bg=%23E58EBD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Junior Front-end Developer ☺️
+# Junior Front-end Developer ☺️
 
 ### 💁‍ About Me
- - Graduated from Chungbuk National University (English Language & International Business)
+ `Please check on my LinkedIn Profile!`  <br><br>
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dahee-jo-958099188/)](https://www.linkedin.com/in/dahee-jo-958099188/)
 
 ### 💡 Interests
  - Web skills(ex. JS, React)
