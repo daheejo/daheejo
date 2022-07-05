@@ -5,7 +5,7 @@
 
 ## Hello World👋  
 I'm Dahee, a Junior Front-End Developer. 💻 <br>
-These are my interests : <br>
+My interests are <br>
 - Awesome FE Web skills
 - AI (ML, DL, NLP)
 - Startup Business
