@@ -69,7 +69,7 @@ My interests are <br>
 
 
 
-### Coding with music 🎧
+### a big fan of listening to music 🎧
 <div><img src="https://spotify-github-profile.vercel.app/api/view?uid=k1pz0nju17w1fxw13z62bo37a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 
