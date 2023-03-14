@@ -7,7 +7,7 @@
 I'm Dahee, a Front-end developer who loves to make things better and efficient. 🤓<br>
 My interests are <br>
 - How to make web more beautiful and get efficient
-- Agile, leadership, teamwork
+- Efficiency, Leadership, Teamwork
 - Startup
 <br/>  
 
