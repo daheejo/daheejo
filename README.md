@@ -8,7 +8,6 @@ I'm Dahee, a Front-end developer who loves to make things better and efficient. 
 My interests are <br>
 - How to make web more beautiful and get efficient
 - Efficiency, Leadership, Teamwork
-- Startup
 <br/>  
 
 ### ...and I'm a big fan of listening to music 🎧
