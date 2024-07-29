@@ -1,19 +1,5 @@
-
-<div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaheejo&count_bg=%233DC89E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>  
-
-## Hello World👋  
+## 👋  
 I'm Dahee, a Front-end developer who loves to make things better and efficient. 🤓<br>
-My interests are <br>
-- How to make web more beautiful and get efficient
-- Efficiency, Leadership, Teamwork
-<br/>  
-
-### ...and I'm a big fan of listening to music 🎧
-<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=k1pz0nju17w1fxw13z62bo37a&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/> 
 
 
 
